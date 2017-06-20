@@ -52,23 +52,15 @@ $result = pg_query($query);
                         <div class="left-navigation">
                             <ul class="list">
                                 <h5><strong>LINKS</strong></h5>
-                                <li><a href="vendors.php">Vendor Armor</a></li>
+                                <li><a href="https://goo.gl/xgpzbX">Discuss this on Reddit</a></li>
                                 <li><a href="vendorweapons.php">Vendor Weapons</a></li>
                             </ul>
                             <br>
                             <ul class="list">
                                 <h5><strong>/r/DTG LINKS</strong></h5>
-                                <li><a href="http://redd.it/6e05bz">Mentor Monday</a></li>
-                                <li><a href="http://redd.it/6e76y4">Team Up Tuesday</a></li>
-                                <li><a href="http://redd.it/6eenr2">RANT WEDNESDAY</a></li>
-                                <li><a href="http://redd.it/6emkvm">Lore Thursday</a></li>
-                                <li><a href="http://redd.it/6eu84r">Free Talk Friday!</a></li>
-                                <li><a href="http://redd.it/6e671f">Weekly Reset Thread</a></li>
-                                <li><a href="http://redd.it/6e67fh">Weekly Vendor Reset Megathread</a></li>
-                                <li><a href="http://redd.it/6e76zk">Weekly Loot Hub</a></li>
-                                <li><a href="http://redd.it/6eenr2">Armsday Rolls, week 91</a></li>
-                                <li><a href="http://redd.it/6et8b1">Xur Megathread</a></li>
-                                <li><a href="http://redd.it/6evn5g">Trials of Osiris Megathread</a></li>
+                                <li><a href="https://www.reddit.com/r/DestinyTheGame">Back to the subreddit</a></li>
+                                <li><a href="https://discord.gg/DestinyReddit">Destiny Discord</a></li>
+                                <li><a href="https://www.reddit.com/message/compose?to=%2Fr%2FDestinyTheGame&subject=DestinyReddit%20Site">Contact Info</a></li>
                             </ul>
                         </div>
                     </div>
