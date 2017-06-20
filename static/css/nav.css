@@ -25,8 +25,8 @@
 }
 
 .masthead-armor {
-    background-image: url(../img/002.jpg);
-    height: 550px;
+    background-image: url(../img/skinny/001.png);
+    height: 100px;
     min-height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -36,8 +36,8 @@
 }
 
 .masthead-weapons {
-    background-image: url(../img/004.jpg);
-    height: 550px;
+    background-image: url(../img/skinny/002.png);
+    height: 100px;
     min-height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;

@@ -25,13 +25,6 @@ $result = pg_query($query);
         <script src="./static/js/bootstrap.min.js"></script>
 
         <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.js"></script>
-        <style>
-            * {
-                font-size: 13px;
-                line-height: 1.4;
-            }
-
-        </style>
     </head>
 
     <body>
@@ -90,8 +83,8 @@ $result = pg_query($query);
         echo "<div class='row'>";
         echo "<div class='col-md-12'>";
         
-        echo "<div class='table-responsive'>";        
-        echo "<table class='table table-bordered table-striped' id='vendorarmor vendor-table'>";
+        echo "<div class='table-responsive vendor-table'>";        
+        echo "<table class='table table-bordered table-striped' id='vendorarmor'>";
         echo "<thead>";
         echo "<tr><th>Vendor</th> <th>Name</th> <th>Type</th> <th>Perks 1</th> <th>Perks 2</th> <th>Int</th> <th>Dis</th> <th>Str</th> <th>Roll%</th> <th>T12</th> </tr>";
         echo "</thead>";
