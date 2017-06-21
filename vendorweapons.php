@@ -43,7 +43,7 @@ $result = pg_query($query);
             <div class="row">
                 <div class="col-md-2 sidebar1">
                     <div class="container sidebar1" id="sidebar">
-                        <div class="logo"> <img src="./static/img/Raid_Emblem.png" class="rounded" alt="Logo" style="max-width:175px; border:0; padding-left: 40px;"> </div>
+                        <div class="logo"> <a href="index-test.html"> <img src="./static/img/Raid_Emblem.png" class="rounded" alt="Logo" style="max-width:175px; border:0; padding-left: 40px;"></a> </div>
                         <br>
                         <br>
                         <br>
@@ -52,7 +52,7 @@ $result = pg_query($query);
                             <ul class="list">
                                 <h5><strong>LINKS</strong></h5>
                                 <li><a href="https://goo.gl/xgpzbX">Discuss this on Reddit</a></li>
-                                <li><a href="vendorarmor.php">Vendor Armor</a></li>
+                                <li><a href="vendors.php">Vendor Armor</a></li>
                             </ul>
                             <br>
                             <ul class="list">
