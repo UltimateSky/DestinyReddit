@@ -52,7 +52,7 @@ $result = pg_query($query);
                             <ul class="list">
                                 <h5><strong>LINKS</strong></h5>
                                 <li><a href="https://goo.gl/xgpzbX">Discuss this on Reddit</a></li>
-                                <li><a href="vendorweapons.php">Vendor Weapons</a></li>
+                                <li><a href="vendorarmor.php">Vendor Armor</a></li>
                             </ul>
                             <br>
                             <ul class="list">
